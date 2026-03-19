@@ -12,7 +12,7 @@
 ## Далее вам понадобится установить зависимости
 ><br/><code>pip install -r requirements.txt</code>
 
-**cv2, numpy, os, math, subprocess, tempfile, shutil, sys, re, hashlib -- встроенные модули python**
+**os, math, subprocess, tempfile, shutil, sys, re, hashlib -- встроенные модули python**
 ---
 # Для кодирования любого файла:
 ><br/><code>python coder.py endcode FILENAME.xxx FILENAME.mp4</code>
