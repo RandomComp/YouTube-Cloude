@@ -1,6 +1,13 @@
 # YouTube-Cloude
 ---
-## Вам понадобится установить зависимости
+## Создайте виртуальное окружение
+><br/><code>python3 -m venv venv</code>
+## Активируйте виртуальное окружение
+**Для Windows:**
+><br/><code>venv\bin\activate</code>
+**Для Linux/MacOS:**
+><br/><code>source venv/bin/activate</code>
+## Далее вам понадобится установить зависимости
 ><br/><code>pip install -r requirements.txt</code>
 
 **cv2, numpy, os, math, subprocess, tempfile, shutil, sys, re, hashlib -- встроенные модули python**
