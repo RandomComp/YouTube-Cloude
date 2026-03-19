@@ -5,8 +5,10 @@
 ## Активируйте виртуальное окружение
 **Для Windows:**
 ><br/><code>venv\bin\activate</code>
+
 **Для Linux/MacOS:**
 ><br/><code>source venv/bin/activate</code>
+
 ## Далее вам понадобится установить зависимости
 ><br/><code>pip install -r requirements.txt</code>
 
