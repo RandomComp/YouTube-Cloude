@@ -15,7 +15,7 @@
 **os, math, subprocess, tempfile, shutil, sys, re, hashlib -- встроенные модули python**
 ---
 # Для кодирования любого файла:
-><br/><code>python coder.py endcode FILENAME.xxx FILENAME.mp4</code>
+><br/><code>python coder.py encode FILENAME.xxx FILENAME.mp4</code>
 <br/>Где .xxx - это расширение вашего файла, который находится в одной папке с coder.py
 ---
 # Для декодирования видеофайла:
