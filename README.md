@@ -1,7 +1,7 @@
 # YouTube-Cloude
 ---
 ## Вам понадобится установить зависимости
-<br/>pip install opencv-python numpy
+><br/>pip install opencv-python numpy
 >cv2, numpy, os, math, subprocess, tempfile, shutil, sys, re, hashlib -- встроенные модули python
 ---
 # Для кодирования любого файла:
